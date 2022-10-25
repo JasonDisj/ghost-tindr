@@ -31,3 +31,9 @@ Relic is a Tinder clone project that the user can get that pesky ghost living in
 ## Setup
 
 Install dependencies with `npm install`.
+
+## Running Webpack Development Server
+
+```sh
+npm run start:frontend
+```
