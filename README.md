@@ -1,6 +1,6 @@
 # Relic
 
-Relic is a Tinder clone project that users can distract the pesky ghosts living in their houses by setting them up on a "date" to avoid the heeby jeebies 👻
+Relic is a React based Tinder clone project that users can distract the pesky ghosts living in their houses by setting them up on a "date" to avoid the heeby jeebies 👻
 
 ## Login / Signup page
 
