@@ -1,10 +1,10 @@
 # Relic
 
-Relic is a Tinder clone project that the user can get that pesky ghost living in the house a "date" so the user has something to distract them from giving the heeby jeebies 👻
+Relic is a Tinder clone project that users can distract the pesky ghosts living in their houses by setting them up on a "date" to avoid the heeby jeebies 👻
 
 ## Login / Signup page
 
-!["Screenshot of app-login-signup"](https://github.com/JasonDisj/ghost-tindr/blob/main/client/docs/Relic-Login.png?raw=true)
+!["Screenshot of login-signup"](https://github.com/JasonDisj/ghost-tindr/blob/main/client/docs/Relic-Login.png?raw=true)
 
 ## Create your own profile
 
@@ -18,13 +18,13 @@ Relic is a Tinder clone project that the user can get that pesky ghost living in
 
 ## Matched popup window
 
-!["Screenshot of specific-profile"](https://github.com/JasonDisj/ghost-tindr/blob/main/client/docs/Relic-Matched.png?raw=true)
+!["Screenshot of matched-popup-window"](https://github.com/JasonDisj/ghost-tindr/blob/main/client/docs/Relic-Matched.png?raw=true)
 
 ## Matched list
 
-!["Screenshot of live-chat"](https://github.com/JasonDisj/ghost-tindr/blob/main/client/docs/Relic-Matched-List.png?raw=true)
+!["Screenshot of matched-list"](https://github.com/JasonDisj/ghost-tindr/blob/main/client/docs/Relic-Matched-List.png?raw=true)
 
-## Live chat with another user
+## Live chat with other users
 
 !["Screenshot of live-chat"](https://github.com/JasonDisj/ghost-tindr/blob/main/client/docs/Relic-Chat.png?raw=true)
 
